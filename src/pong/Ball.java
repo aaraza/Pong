@@ -1,19 +1,19 @@
 package pong;
 
 import javafx.scene.paint.Color;
-import javafx.scene.shape.Ellipse;
+import javafx.scene.shape.Circle;
 
 /**
  *
  * @author ali
  */
-public class Ball extends Ellipse{
+public class Ball extends Circle{
     
     /**
      * Creates a new ball and places it in the center of the screen 
      */
     public Ball() {
-        super(300, 185, 5, 5);
+        super(300, 185, 5);
         this.setFill(Color.WHITE);
     }
     
