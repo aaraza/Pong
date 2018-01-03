@@ -1,5 +1,5 @@
 # Pong
-Pong recreated using Java, JavaFX with Object Oriented design.
+Single player pong game created using Java with JavaFX for GUI.
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
 ### Controls
